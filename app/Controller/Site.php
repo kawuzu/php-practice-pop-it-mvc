@@ -1,6 +1,6 @@
 <?php
 namespace Controller;
-use Couchbase\View;
+
 use Src\View;
 class Site
 {
